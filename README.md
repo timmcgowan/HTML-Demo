@@ -1,5 +1,5 @@
 # HTML-Demo
-Just for HTML examples,  made by Tim!
+Just for HTML examples.
 
 ## How to Contribute
 ### Projects
@@ -7,9 +7,9 @@ Just for HTML examples,  made by Tim!
 We utilize github projects for managing development.  [Introduction to github Projects](https://youtu.be/C6MGKHkNtxU)
 - Allows greater visibility for all teams in ge to see progress
 - Allows contributers to manage project enhancements and track progress
-### Join the Community
 
-The first step to making Revel better is joining the community! You can find the
+### Join Me!
+The first step to making this better is joining the community! You can find the
 community on:
 * [GitHub Issues](https://github.com/timmcgowan/HTML-Demo/issues)
 
@@ -33,5 +33,3 @@ $ ...
 # Make your changes and commit them
 $ git push fork feature/useful-new-thing \# After new commits, push to your fork
 ```
-
-
