@@ -1,5 +1,5 @@
 # HTML-Demo
-Just for HTML examples
+Just for HTML examples,  made by Tim!
 
 ## How to Contribute
 ### Projects
