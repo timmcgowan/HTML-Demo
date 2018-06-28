@@ -1,9 +1,3 @@
- <style>
-    /*
-			NOTE: Commenting is a bit different in CSS. 
-		  They start with forward-slash + asterisk 
-		  and end with back-slash + asterisk.
-		  */
     /* h1 heading tag */
     
     h1 {
@@ -70,4 +64,3 @@
       /* More info here: http://www.w3schools.com/cssref/pr_list-style-position.asp */
       list-style-position: inside;
     }
-  </style>
